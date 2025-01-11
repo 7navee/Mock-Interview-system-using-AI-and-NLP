@@ -35,3 +35,6 @@ The Mock Interview System is an AI-driven platform that simulates real-world int
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/mock-interview-system.git  
+
+
+![image alt](https://github.com/7navee/Mock-Interview-system-using-AI-and-NLP/blob/master/Screenshot%20(23).png?raw=true)
