@@ -38,3 +38,4 @@ The Mock Interview System is an AI-driven platform that simulates real-world int
 
 
 ![image alt](https://github.com/7navee/Mock-Interview-system-using-AI-and-NLP/blob/master/Screenshot%20(23).png?raw=true)
+![image alt](https://github.com/7navee/Mock-Interview-system-using-AI-and-NLP/blob/master/Screenshot%20(24).png?raw=true)
